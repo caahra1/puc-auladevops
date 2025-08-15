@@ -9,4 +9,4 @@ async def root():
 
 
   async def funcaoteste():
-    return {"teste": True, "um_aleatorio": random.randint(0,1000)}
+    return {"teste": True, "um_aleatorio": random.randint(0,20000)}
