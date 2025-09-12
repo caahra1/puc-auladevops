@@ -6,3 +6,5 @@ Este é um repositório *exclusivo para testes*.
 Pesquise mais sobre Markdown para aprender algumas coisas sobre formatação 
 de texots para arquivos README.
 docs: adiciona titulo principal
+Este projeto demonstra um fluxo de CI/CD completo.
+docs: adiciona descricao do projeto
