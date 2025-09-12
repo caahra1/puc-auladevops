@@ -11,3 +11,6 @@ docs: adiciona descricao do projeto
 
 ## Tecnologias Utilizadas
 docs: adiciona secao de tecnologias
+
+ GitHub Actions
+ docs: lista Actions como tecnologia
