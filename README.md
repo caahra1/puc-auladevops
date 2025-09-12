@@ -8,3 +8,6 @@ de texots para arquivos README.
 docs: adiciona titulo principal
 Este projeto demonstra um fluxo de CI/CD completo.
 docs: adiciona descricao do projeto
+
+## Tecnologias Utilizadas
+docs: adiciona secao de tecnologias
