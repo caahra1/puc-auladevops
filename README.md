@@ -1,6 +1,8 @@
 # puc-auladevops
+# Meu Projeto DevOps
 
 Olá!
 Este é um repositório *exclusivo para testes*.
 Pesquise mais sobre Markdown para aprender algumas coisas sobre formatação 
 de texots para arquivos README.
+docs: adiciona titulo principal
