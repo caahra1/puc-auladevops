@@ -14,3 +14,5 @@ docs: adiciona secao de tecnologias
 
  GitHub Actions
  docs: lista Actions como tecnologia
+
+ test: testando gatilho do CI
