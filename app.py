@@ -1,10 +1,23 @@
-from flask import Flask
+# app.py
 
-app = Flask(__name__)
+def somar(a, b):
+    """Soma dois números."""
+    return a + b
 
-@app.route('/')
-def hello_world():
-    return 'Meu container Docker esta funcionando!'
+def subtrair(a, b):
+    """Subtrai o segundo número do primeiro."""
+    return a - b
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+def multiplicar(a, b):
+    """Multiplica dois números."""
+    return a * b
+
+def dividir(a, b):
+    """Divide o primeiro número pelo segundo."""
+    if b == 0:
+        raise ValueError("Não é possível dividir por zero.")
+    return a / b
+
+def saudar(nome):
+    """Retorna uma saudação personalizada."""
+    return f"Olá, {nome}!"
