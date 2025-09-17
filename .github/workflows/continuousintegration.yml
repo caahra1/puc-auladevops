@@ -25,4 +25,6 @@ jobs:
           pip install pytest
 
       - name: 4. Rodar os testes
-        run: pytest
+    run: |
+      export PYTHONPATH=.
+      pytest
