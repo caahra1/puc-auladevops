@@ -16,3 +16,5 @@ docs: adiciona secao de tecnologias
  docs: lista Actions como tecnologia
 
  test: testando gatilho do CI
+
+  test: Workflow Webhook
